@@ -1,0 +1,25 @@
+{
+  "name": "discord-ilo-bot",
+  "version": "1.0.0",
+  "description": "This is a Discord bot to power cycle a server with iLO.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerwood/discord-ilo-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kerwood/discord-ilo-bot/issues"
+  },
+  "homepage": "https://github.com/Kerwood/discord-ilo-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "https": "^1.0.0"
+  }
+}
