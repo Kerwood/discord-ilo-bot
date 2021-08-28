@@ -12,3 +12,10 @@ docker run --name discord-ilo-bot \
   -e ILO_PASS=<ilo-password> \
   -d discord-ilo-bot
 ```
+
+
+## Commands
+
+ - `!startserver` - Will start the server
+ - `!stopserver` - Will stop the server
+ - `!status` - Will give you the powerstate of the server
