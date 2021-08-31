@@ -19,3 +19,7 @@ docker run --name discord-ilo-bot \
  - `!startserver` - Will start the server
  - `!stopserver` - Will stop the server
  - `!status` - Will give you the powerstate of the server
+
+---
+
+Se more info at [https://linuxblog.xyz/posts/discord-ilo-bot/](https://linuxblog.xyz/posts/discord-ilo-bot/)
